@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langgraph
+faiss-cpu
+dashscope
+python-dotenv
+flake8
+fastapi
+uvicorn
+pydantic
+tavily-python
