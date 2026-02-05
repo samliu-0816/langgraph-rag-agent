@@ -10,3 +10,6 @@ fastapi
 uvicorn
 pydantic
 tavily-python
+langchain-pinecone
+pinecone-client
+pypdf
